@@ -1,4 +1,3 @@
-using System;
 using src.UsandoCoverlet.App.Classes;
 using Xunit;
 

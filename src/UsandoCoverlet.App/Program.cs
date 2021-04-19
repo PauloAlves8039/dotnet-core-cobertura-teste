@@ -1,8 +1,10 @@
 ﻿using System;
 using src.UsandoCoverlet.App.Classes;
+using System.Diagnostics.CodeAnalysis;
 
 namespace UsandoCoverlet.App
 {
+    [ExcludeFromCodeCoverage]
     class Program
     {
         static void Main(string[] args)

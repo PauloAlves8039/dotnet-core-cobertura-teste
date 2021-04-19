@@ -1,0 +1,40 @@
+{
+  "UsandoCoverlet.App.dll": {
+    "C:\\dev\\ws-dotnet\\dotnet-core-teste\\src\\UsandoCoverlet.App\\Classes\\Calculadora.cs": {
+      "src.UsandoCoverlet.App.Classes.Calculadora": {
+        "System.Int32 src.UsandoCoverlet.App.Classes.Calculadora::Somar(System.Int32,System.Int32)": {
+          "Lines": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+          },
+          "Branches": []
+        },
+        "System.Int32 src.UsandoCoverlet.App.Classes.Calculadora::Subtrair(System.Int32,System.Int32)": {
+          "Lines": {
+            "11": 1,
+            "12": 1,
+            "13": 1
+          },
+          "Branches": []
+        },
+        "System.Int32 src.UsandoCoverlet.App.Classes.Calculadora::Multiplicar(System.Int32,System.Int32)": {
+          "Lines": {
+            "16": 1,
+            "17": 1,
+            "18": 1
+          },
+          "Branches": []
+        },
+        "System.Int32 src.UsandoCoverlet.App.Classes.Calculadora::Dividir(System.Int32,System.Int32)": {
+          "Lines": {
+            "21": 1,
+            "22": 1,
+            "23": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
