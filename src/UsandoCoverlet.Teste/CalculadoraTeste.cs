@@ -37,7 +37,7 @@ namespace UsandoCoverlet.Teste
             Assert.Equal(valorEsperadoMultiplicacao, valorRecebidoMultiplicacao);
         }
 
-        // [Fact]
+        [Fact]
         public void Dividir_Deve_Retornar_Verdadeira_A_Divisao()
         {
             var valorRecebidoDivisao = calculadora.Dividir(10, 2);
